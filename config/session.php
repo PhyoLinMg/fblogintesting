@@ -152,7 +152,7 @@ return [
     | available to in your application. A sensible default has been set.
     |
     */
-
+    //your site's name
     'domain' => env('SESSION_DOMAIN', 'localhost'),
 
     /*
